@@ -1,0 +1,3 @@
+[submodule "hoge"]
+	path = hoge
+	url = git@github.com:moajo/test2.git
